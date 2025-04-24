@@ -1,0 +1,2 @@
+-  Superposition of space modes with the same frequency but different time phases.
+- They have an associated [[Phase Velocity|phase velocity]] and [[Group Velocity|group velocity]].

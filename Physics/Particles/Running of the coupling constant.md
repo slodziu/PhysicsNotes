@@ -1,0 +1,1 @@
+Since the coupling constant in QCD has value $g_s \approx 1$, higher order [[Feynman Diagrams|Feynman diagrams]] cannot be ignored, so theoretical predictions have huge uncertainty at low energies, this is a problem in nuclear physics and leads to [[Asymptotic Freedom|asymptotic freedom]].

@@ -1,0 +1,3 @@
+- Nucleons in a nucleus of an atom interact via the [[Strong Force|strong force]], but not via gluons, as colour would leak.
+- Instead, a massive mediator is needed -> pion with range $\approx 0.7\times10^{-15}m$.
+- This means that nucleons **with their neighbours only**.

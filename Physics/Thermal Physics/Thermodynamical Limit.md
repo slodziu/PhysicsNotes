@@ -1,0 +1,3 @@
+- Achieved when there is a large number of particles **or** we average the state for a long time.
+- In this limit, can specify state using a small number of variables like $p,V,T...$ 
+- No need to know the motion of the individual particles

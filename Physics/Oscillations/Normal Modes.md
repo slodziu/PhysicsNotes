@@ -1,0 +1,2 @@
+- Motion of system of n [[Coupled Oscillators|coupled oscillators]] where all particles move at the same [[Angular Frequency|angular frequency]]
+- If the system has $n$ particles, there will be $n$ normal modes.

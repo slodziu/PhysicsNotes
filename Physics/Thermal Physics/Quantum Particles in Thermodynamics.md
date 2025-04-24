@@ -1,0 +1,13 @@
+- [[Fermions]]:
+	- $\frac 12$-integer spin particles (in units of [[Reduced Planck's Constant]])
+	- electrons, protons, neutrons
+	- Total [[Wavefunction]] is antisymmetric w.r.t. particle exchange s.t.
+	- $$\Psi(a,b)=-\Psi(b,a)$$
+	- this means that we can **only have one fermion in any single quantum state**
+	- This leads to the [[Pauli Exclusion Principle]] 
+- [[Bosons]]:
+	- Integer spin particles
+	- photons, phonons
+	- for a system of Bose particles:
+	- $$\Psi(a,b)=\Psi(b,a)$$
+	- therefore there are **no** restrictions on number of Bose particles

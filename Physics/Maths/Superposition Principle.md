@@ -1,0 +1,2 @@
+As the [[Schrödinger equation]] is linear, a new [[Wavefunction]] can be constructed from a [[linear combination]] of other wavefunctions.
+This also means that **evolution of superpositions is the superposition of evolutions** of a wavefunction.

@@ -1,0 +1,2 @@
+- For a particle with energy less than the potential well energy, $E_n\leq V_0$, there is still a change for the particle to enter the **forbidden region**, i.e. outside the barriers of the potential well.
+- This can be seen in the case of the [[Finite Square Well Potential|finite square well]], but it is completely supressed in the case of the [[Infinite Square Well Potential|infinite square well]].

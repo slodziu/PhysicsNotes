@@ -1,0 +1,1 @@
+- Energy transfer between one system and another, or one system and its surroundings.

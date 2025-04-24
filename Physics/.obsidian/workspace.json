@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "59a9defde96240ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b200a10019f217d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18fd7081eb108638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/pp-chain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pp-chain"
+            }
+          },
+          {
+            "id": "1d012c91082eb04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/CNO Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CNO Cycle"
+            }
+          },
+          {
+            "id": "f04b2e5ea2caa24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/Helium Fusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helium Fusion"
+            }
+          },
+          {
+            "id": "17e87665928a5417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/Carbon Burning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carbon Burning"
+            }
+          },
+          {
+            "id": "5d7ab4d59c2a9d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/Oxygen Burning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oxygen Burning"
+            }
+          },
+          {
+            "id": "e9378c9c3850a38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stellar Structure/Post Main-Sequence Stellar Evolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post Main-Sequence Stellar Evolution"
+            }
+          },
+          {
+            "id": "f1e7e9f9ad2a460b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supernova Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supernova Classification"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07f65c1b4308190b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88725fc38c9abcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f121f1178f6ce21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15a9212bae6ad380",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "chemi",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "640e4f7e4e697fe0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0de1a70794869ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ecadfda7de5ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e8e7a5f5f6a5b99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stellar Structure/pp3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pp3"
+            }
+          },
+          {
+            "id": "9b51c696b46b1c8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stellar Structure/pp3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pp3"
+            }
+          },
+          {
+            "id": "3d22430c571c8808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7a69a25107e1df0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stellar Structure/pp3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pp3"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1e7e9f9ad2a460b",
+  "lastOpenFiles": [
+    "Stellar Structure/Post Main-Sequence Stellar Evolution.md",
+    "Supernova Classification.md",
+    "Stellar Structure/Schwarzschild Criterion.md",
+    "CircularOrbit.mp4",
+    "Stellar Structure/Neon Burning.md",
+    "General Physics/Energy.md",
+    "Stellar Structure/Convection in Stars.md",
+    "Stellar Structure/Helium Fusion.md",
+    "Stellar Structure/pp2.md",
+    "Stellar Structure/pp3.md",
+    "Stellar Structure/pp1.md",
+    "Stellar Structure/Carbon Burning.md",
+    "Stellar Structure/CN cycle.md",
+    "Stellar Structure/CNO Cycle.md",
+    "Stellar Structure/Hydrogen Burning.md",
+    "Stellar Structure/Ledoux Criterion.md",
+    "Stellar Structure/ON branch.md",
+    "Stellar Structure/Oxygen Burning.md",
+    "Stellar Structure/pp-chain.md",
+    "Stellar Structure/Silicon Burning.md",
+    "Thermal Physics/Gibbs-Duhem Equation.md",
+    "Maths/Exact Differentials.md",
+    "Thermal Physics/Laws of Thermodynamics.md",
+    "Maths/Poisson's Equation.md",
+    "Quantum Mechanics/Average Momentum of Wavefunction.md",
+    "Stellar Structure",
+    "Quantum Mechanics/Commutation in QM.md",
+    "Quantum Mechanics/Conservation of normalisation.md",
+    "Thermal Physics/Thermal Images/Pasted image 20240125124131.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240301173537.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240301171940.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240301155910.png",
+    "Electromagnetism/EM Images/Pasted image 20240222115045.png",
+    "Electromagnetism/EM Images/Pasted image 20240218102851.png",
+    "Electromagnetism/EM Images",
+    "Electromagnetism/EM Images/Pasted image 20240217113356.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240216143351.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240216142153.png",
+    "Thermal Physics/Thermal Images/Pasted image 20240216112020.png",
+    "Thermal Physics/Thermal Images",
+    "Untitled",
+    "Thermal Physics",
+    "Electromagnetism",
+    "Particles/Particle Imag",
+    "Particles",
+    "Quantum Mechanics/QM Imag"
+  ]
+}

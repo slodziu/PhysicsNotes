@@ -1,0 +1,7 @@
+- Set of equations derivable for each [[Thermodynamic Potentials|thermodynamic potential]] using partial derivative laws including the [[Reciprocal and Reciprocity Theorems]].
+- For instance, Helmholtz Free Energy $F=U-TS$:
+	- by [[Laws of Thermodynamics|first law]], $dF=-pdV-SdT$, so $F = F(V,T)$
+	- then $p = - (\frac{\partial F}{\partial V})_T$ and $S = - (\frac{\partial F}{\partial T})_V$ 
+	- taking the **second derivative** for both using each other's variables:
+	- $(\frac{\partial S}{\partial V})_T =  -(\frac{\partial ^2 F}{\partial V \partial T})$ and $(\frac{\partial p}{\partial T})_V =  -(\frac{\partial ^2 F}{\partial T \partial V})$ 
+	- Those must be equal, therefore we have $$(\frac{\partial p}{\partial T})_V=(\frac{\partial S}{\partial V})_T$$

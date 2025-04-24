@@ -1,0 +1,1 @@
+https://books.google.co.uk/books?hl=en&lr=&id=YI7VEAAAQBAJ&oi=fnd&pg=PR31&dq=International+Tables+for+Crystallography&ots=LvXJvyKoOy&sig=5cVtKUZifqZwOT2GsSiIBOsty7c&redir_esc=y#v=onepage&q&f=false chapter 6.1.1.5

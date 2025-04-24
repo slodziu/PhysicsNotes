@@ -1,0 +1,2 @@
+In particle physics, vertex is a meeting point of three particles, obeying the usual conservation laws which are used to construct Feynman diagrams
+Allowed vertices: https://www.hep.phy.cam.ac.uk/~chpotter/particleandnuclearphysics/Lecture_05_FeynmanDiagrams.pdf 

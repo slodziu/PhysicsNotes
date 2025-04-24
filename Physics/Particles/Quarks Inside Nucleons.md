@@ -1,0 +1,3 @@
+Due to [[The Uncertainty Principle|UP]], quarks-antiquark pairs can be produced from gluons inside nucleons. As this states lives for a very short time, it cannot travel far, and would need a very small wavelength to 'see' it $\lambda=1/\sqrt{Q^2}$ , $Q^2 = E^2-p^2$ for a photon.
+
+ Classically, it was thought that a proton is made up of three quarks: $p^+ = {uud}$, such that each quark carries a third of the proton's momentum: $x=1/3$, where $x$ is the momentum fraction carried by quark.

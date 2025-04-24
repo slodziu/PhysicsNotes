@@ -1,0 +1,1 @@
+- Angular offset of a wave, dictating its translation in the (usually) time or space axes

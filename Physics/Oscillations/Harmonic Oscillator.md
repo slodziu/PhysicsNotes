@@ -1,0 +1,3 @@
+- Only force acting on body is proportional and opposite to displacement:
+$$\frac{d^2}{dt^2}x(t) = -\frac{k}{m}x(t)$$
+- This has solution $x(t) = Acos(\omega t + \phi)$ where $\omega$ is the [[Angular Frequency|angular frequency]] (here $=\frac{k}{m}$), and [[Amplitude|amplitude]] $A = \sqrt{x(0)^2 + \frac{\dot{x}(0)^2}{\omega ^2}}$ , and [[Phase|phase]] $\phi$ such that: $tan(\phi) = -\frac{\dot{x}(o)}{\omega x(0)}$ .

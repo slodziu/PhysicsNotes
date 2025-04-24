@@ -1,0 +1,1 @@
+$$E = hf,$$ where E = [[Energy]], h = [[Planck's constant]], f = [[Frequency]].

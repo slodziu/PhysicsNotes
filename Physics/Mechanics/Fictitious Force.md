@@ -1,0 +1,1 @@
+- a force that appears to act on a mass whose motion is described using a [[Non-Inertial Reference Frame|non-inertial reference frame]] such as a linearly accelerating or rotating frame

@@ -1,0 +1,1 @@
+- States that **any** reversible engine has **exactly** the [[Carnot Cycle|Carnot efficiency]].

@@ -1,0 +1,2 @@
+- Rate of change of the angle, $\omega = \dot{\phi} = \frac{d\phi}{dt}$
+- Associated with [[Frequency|frequency]] by $\omega = 2\pi f$ and [[Period|period]] by $\omega = \frac{2\pi}{T}$.

@@ -1,0 +1,6 @@
+- Probabilistic theory
+- Photon energy [[Quantised]]
+- Can **never** know the exact position and momentum.
+- [[Wavefunction]] (spatial) of the form $$\psi(x, t)$$
+- [[probability density function]] to find a particle at some position $x$ is: $$P(x) =|\psi(x,t)|^2. $$ $|\psi(x,t)|^2$ is the [[complex conjugate]] of $\psi(x,t)$ multiplied by $\psi(x,t)$
+-

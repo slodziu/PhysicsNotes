@@ -1,0 +1,2 @@
+- Object is in thermal equilibrium when its macroscopic observables ($P,T...$) have **ceased to change in time**.
+- Two systems are in thermal equilibrium if **no [[Heat|heat]]** flows between them.

@@ -1,0 +1,1 @@
+Last stage of nuclear burning proceeds via photodisintegration after [[Oxygen Burning]].

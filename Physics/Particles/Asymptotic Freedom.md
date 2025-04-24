@@ -1,0 +1,1 @@
+The theory that quarks act as free particles at high energies as effective coupling constant decreases at high momenta

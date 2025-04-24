@@ -1,0 +1,5 @@
+- Paramagnets: dipoles due to spin line up with external field
+- Diamagnets: dipoles due to electron orbits lining up opposite to external field
+	- Modelling electron orbit as [[Continuous Charge Densities|continuous charge distribution]] gives rise to [[Magnetic Moment|magnetic moment]] $$\vec m=-\frac 12evR\hat k$$
+	- In a [[Biot-Savart Law|magnetic field]] $B$ it changes $$\Delta \vec m=-\frac{e^2R^2}{4m_e}\vec B$$
+- Ferromagnets: dipoles aligned remain aligned in absence of external field

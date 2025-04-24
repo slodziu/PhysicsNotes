@@ -1,0 +1,2 @@
+- States that $$\frac{\partial P}{\partial t} =\frac{\partial j}{\partial x} ,$$
+- where $P(x, t)$ is the [[probability density function]] and $j(x,t)$ is the [[Probability current]].

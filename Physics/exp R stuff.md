@@ -1,0 +1,5 @@
+- not point like for inverse square as well as efficiency
+- the length approaching the same at larger offset
+- simulation has shown a better offset
+- it is expected for gamma efficiency to be much less
+- departure from inverse square discussion - modelling as non single particle

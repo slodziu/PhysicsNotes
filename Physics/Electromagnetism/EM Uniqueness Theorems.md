@@ -1,0 +1,2 @@
+- 1. The solution to the [[Laplace's Equation]] in some volume $\tau$ is uniquely determined if [[Electric Potential|V]] is specified on the boundary surface.
+- 2. In volume $\tau$ surrounded by conductors and containing a specified [[Continuous Charge Densities|charge density]] $\rho$, the [[Electric Field|electric field]] is uniquely determined **if** the total charge in given.

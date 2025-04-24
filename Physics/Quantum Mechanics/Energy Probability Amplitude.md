@@ -1,0 +1,2 @@
+- Denoted $c_n$, gives the probability amplitude for a particle to be in energy state $E_n$
+- $|c_n|^2$ is the [[probability density function|probability density]] for the particle to be in energy state $E_n$ 

@@ -1,0 +1,3 @@
+- Given enough time, the system will explore all possible microstates and will spend an equal amount of time in each of them
+- This means that isolated system in [[Thermal Equilibrium|thermal equilibrium]] will adopt the macrostate with the most microstates.
+	- This is [[Laws of Thermodynamics|2nd Law]] $dS \geq 0$ maximising entropy 

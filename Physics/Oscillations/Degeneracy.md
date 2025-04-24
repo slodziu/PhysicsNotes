@@ -1,0 +1,1 @@
+- If there are more than one modes with the same frequency, we call that frequency degenerate frequency and the modes are said to be degenerate.

@@ -1,0 +1,2 @@
+- A technique for solving ODEs where you assume a function of multiple variables is a product of functions of each of the variables:
+- $$f(x,y,z) = A(x)B(y)C(z)$$

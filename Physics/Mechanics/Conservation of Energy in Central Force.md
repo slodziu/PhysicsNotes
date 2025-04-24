@@ -1,0 +1,2 @@
+In [[Central Force|central force]] problems, as [[Angular Momentum|angular momentum]] is conserved, the total energy $E$ is the sum of **radial** kinetic energy and the [[Effective Potential|effective potential]].
+$$E_{tot}=\frac{1}{2}m\dot{r}^2+U_{eff}$$

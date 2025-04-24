@@ -1,0 +1,1 @@
+- Maximum displacement from the [[Equilibrium|equilibrium]] point.
