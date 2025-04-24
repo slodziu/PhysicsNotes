@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supernova Classification.md",
+                "file": "Stellar Structure and HEA/Supernova Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Supernova Classification"
             }
+          },
+          {
+            "id": "d736826cbfe90baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Galactic Nuclei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active Galactic Nuclei"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0de1a70794869ac6",
@@ -254,36 +269,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1e7e9f9ad2a460b",
+  "active": "d736826cbfe90baa",
   "lastOpenFiles": [
-    "Stellar Structure/Post Main-Sequence Stellar Evolution.md",
-    "Supernova Classification.md",
-    "Stellar Structure/Schwarzschild Criterion.md",
+    "Stellar Structure and HEA/Supernova Classification.md",
+    "Active Galactic Nuclei.md",
+    "Stellar Structure and HEA/Post Main-Sequence Stellar Evolution.md",
+    "Stellar Structure and HEA/Schwarzschild Criterion.md",
     "CircularOrbit.mp4",
-    "Stellar Structure/Neon Burning.md",
+    "Stellar Structure and HEA/Neon Burning.md",
     "General Physics/Energy.md",
-    "Stellar Structure/Convection in Stars.md",
-    "Stellar Structure/Helium Fusion.md",
-    "Stellar Structure/pp2.md",
-    "Stellar Structure/pp3.md",
-    "Stellar Structure/pp1.md",
-    "Stellar Structure/Carbon Burning.md",
-    "Stellar Structure/CN cycle.md",
-    "Stellar Structure/CNO Cycle.md",
-    "Stellar Structure/Hydrogen Burning.md",
-    "Stellar Structure/Ledoux Criterion.md",
-    "Stellar Structure/ON branch.md",
-    "Stellar Structure/Oxygen Burning.md",
-    "Stellar Structure/pp-chain.md",
-    "Stellar Structure/Silicon Burning.md",
+    "Stellar Structure and HEA/Convection in Stars.md",
+    "Stellar Structure and HEA/Helium Fusion.md",
+    "Stellar Structure and HEA/pp2.md",
+    "Stellar Structure and HEA/pp3.md",
+    "Stellar Structure and HEA/pp1.md",
+    "Stellar Structure and HEA/Carbon Burning.md",
+    "Stellar Structure and HEA/CN cycle.md",
+    "Stellar Structure and HEA/CNO Cycle.md",
+    "Stellar Structure and HEA/Hydrogen Burning.md",
+    "Stellar Structure and HEA/Ledoux Criterion.md",
+    "Stellar Structure and HEA/ON branch.md",
+    "Stellar Structure and HEA/Oxygen Burning.md",
+    "Stellar Structure and HEA/pp-chain.md",
+    "Stellar Structure and HEA/Silicon Burning.md",
     "Thermal Physics/Gibbs-Duhem Equation.md",
     "Maths/Exact Differentials.md",
     "Thermal Physics/Laws of Thermodynamics.md",
     "Maths/Poisson's Equation.md",
     "Quantum Mechanics/Average Momentum of Wavefunction.md",
-    "Stellar Structure",
+    "Stellar Structure and HEA",
     "Quantum Mechanics/Commutation in QM.md",
-    "Quantum Mechanics/Conservation of normalisation.md",
     "Thermal Physics/Thermal Images/Pasted image 20240125124131.png",
     "Thermal Physics/Thermal Images/Pasted image 20240301173537.png",
     "Thermal Physics/Thermal Images/Pasted image 20240301171940.png",
