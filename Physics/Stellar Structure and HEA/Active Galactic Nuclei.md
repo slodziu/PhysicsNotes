@@ -11,5 +11,5 @@ Usually classified into:
 - **Blazars** -> Extremely luminous and *variable* sources dominated by **synchrotron** radiation. Weak emission lines, swamped by synchrotron continuum.
 
 Another type of classification is the ratio of radio to non-radio emission:
-- **Radio-loud **-> 10x brighter in radio than optical, almost exclusive in ellipticals.
-- **Radio-quiet* -> otherwise
+- **Radio-loud**-> 10x brighter in radio than optical, almost exclusive in ellipticals.
+- **Radio-quiet** -> otherwise
