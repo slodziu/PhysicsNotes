@@ -15,6 +15,9 @@ The components of a unified AGN model are:
 - Similar to broad lines, coming from gas moving around the central black hole, but further out, moving more slowly but still ionised by disk emission.
 **Molecular Torus**:
 - Quasar spectra show bump in IR not from disk or jets -> consistent with BB emission at 80K, originating from dusty torus that absorbs + reemits emission from nucleus.
+**Hot Corona**:
+- Situated around the accretion disk.
+- Generates X-Rays by Inverse-Compton scattering of disk photons.
 
 Using this, considering angle $\theta$ to *jet axis*:
 **Radio-Loud**:
