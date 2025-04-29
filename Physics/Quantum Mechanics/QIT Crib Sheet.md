@@ -1,0 +1,22 @@
+- [ ] Pauli Operator Definitions both in Dirac and matrix notation
+- [ ] Eigenvalue Equation (det($A-\mathbf{I}\lambda$))
+- [ ] Adjoint Definition for proofs
+- [ ] Entanglement definition (both tensor product and reduced density operator)
+- [ ] CNOT operator definition
+- [ ] Unitary taking O-normal to O-normal basis
+- [ ] No Cloning Theorem
+- [ ] Super-Dense Coding Protocol
+- [ ] Teleportation Protocol
+- [ ] Hadamard Operator
+- [ ] Computational Basis
+- [ ] Deutsch's Algorithm
+- [ ] Deutsch-Jozsa Problem + Algorithm
+- [ ] Binary Key Distribution
+- [ ] Quantum Key Distribution
+- [ ] B92 Protocol
+- [ ] Computing density operator + trace **properties**, maximally mixed state
+- [ ] Reduced density operators, multi-qubit systems
+- [ ] Bell's Theorem, probability formulas (conditional prob)
+- [ ] LHV + CHSH game (classical + quantum strategy)
+- [ ] Quantum Sensing Formulas (standard deviation and such), single and $n$-probe sensing
+- [ ] Trig ids
