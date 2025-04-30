@@ -19,4 +19,4 @@
 - [ ] Bell's Theorem, probability formulas (conditional prob)
 - [ ] LHV + CHSH game (classical + quantum strategy)
 - [ ] Quantum Sensing Formulas (standard deviation and such), single and $n$-probe sensing
-- [ ] Trig ids
+- [ ] Trig ids + standard trig vals
