@@ -17,6 +17,6 @@
 - [ ] Computing density operator + trace **properties**, maximally mixed state
 - [ ] Reduced density operators, multi-qubit systems
 - [ ] Bell's Theorem, probability formulas (conditional prob)
-- [ ] LHV + CHSH game (classical + quantum strategy)
+- [ ] LHV + CHSH game (classical + quantum strategy) CHSH ANGLES
 - [ ] Quantum Sensing Formulas (standard deviation and such), single and $n$-probe sensing
 - [ ] Trig ids + standard trig vals
