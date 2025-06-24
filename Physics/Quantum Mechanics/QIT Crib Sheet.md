@@ -1,22 +1,22 @@
-- [ ] Pauli Operator Definitions both in Dirac and matrix notation
-- [ ] Eigenvalue Equation (det($A-\mathbf{I}\lambda$))
-- [ ] Adjoint Definition for proofs
-- [ ] Entanglement definition (both tensor product and reduced density operator)
-- [ ] CNOT operator definition
-- [ ] Unitary taking O-normal to O-normal basis
-- [ ] No Cloning Theorem
-- [ ] Super-Dense Coding Protocol
-- [ ] Teleportation Protocol
-- [ ] Hadamard Operator
-- [ ] Computational Basis
-- [ ] Deutsch's Algorithm
-- [ ] Deutsch-Jozsa Problem + Algorithm
-- [ ] Binary Key Distribution
-- [ ] Quantum Key Distribution
-- [ ] B92 Protocol
-- [ ] Computing density operator + trace **properties**, maximally mixed state
-- [ ] Reduced density operators, multi-qubit systems
-- [ ] Bell's Theorem, probability formulas (conditional prob)
-- [ ] LHV + CHSH game (classical + quantum strategy) CHSH ANGLES
+- [x] Pauli Operator Definitions both in Dirac and matrix notation
+- [x] Eigenvalue Equation (det($A-\mathbf{I}\lambda$))
+- [x] Adjoint Definition for proofs
+- [x] Entanglement definition (both tensor product and reduced density operator)
+- [x] CNOT operator definition
+- [x] Unitary taking O-normal to O-normal basis
+- [x] No Cloning Theorem
+- [x] Super-Dense Coding Protocol
+- [x] Teleportation Protocol
+- [x] Hadamard Operator
+- [x] Computational Basis
+- [x] Deutsch's Algorithm
+- [x] Deutsch-Jozsa Problem + Algorithm
+- [x] Binary Key Distribution
+- [x] Quantum Key Distribution
+- [x] B92 Protocol
+- [x] Computing density operator + trace **properties**, maximally mixed state
+- [x] Reduced density operators, multi-qubit systems
+- [x] Bell's Theorem, probability formulas (conditional prob)
+- [x] LHV + CHSH game (classical + quantum strategy) CHSH ANGLES
 - [ ] Quantum Sensing Formulas (standard deviation and such), single and $n$-probe sensing
-- [ ] Trig ids + standard trig vals
+- [x] Trig ids + standard trig vals
