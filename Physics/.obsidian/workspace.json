@@ -11,12 +11,14 @@
             "id": "18fd7081eb108638",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Quantum Mechanics/QM Imag/Pasted image 20231222165617.png"
+                "file": "Quantum Phase-sensitive Spectroscopy of Topological Superconductors/Superconducting Order Parameter (Δₖ).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20231222165617"
+              "icon": "lucide-file",
+              "title": "Superconducting Order Parameter (Δₖ)"
             }
           }
         ]
@@ -169,6 +171,9 @@
   },
   "active": "18fd7081eb108638",
   "lastOpenFiles": [
+    "Quantum Mechanics/QM Imag/Pasted image 20231222165617.png",
+    "Quantum Phase-sensitive Spectroscopy of Topological Superconductors/Superconducting Order Parameter (Δₖ).md",
+    "Quantum Phase-sensitive Spectroscopy of Topological Superconductors",
     "Quantum Mechanics/QM Imag/Pasted image 20231222164856.png",
     "Quantum Mechanics/QM Imag/Pasted image 20231222161257.png",
     "Stellar Structure and HEA/pp3.md",
@@ -195,7 +200,6 @@
     "Particles/Quarks Inside Nucleons.md",
     "Particles/Vertex.md",
     "Particles/Semi-Empirical Mass Forumla.md",
-    "Stellar Structure and HEA/Oxygen Burning.md",
     "CircularOrbit.mp4",
     "Stellar Structure and HEA",
     "Thermal Physics/Thermal Images/Pasted image 20240125124131.png",
@@ -207,9 +211,7 @@
     "Electromagnetism/EM Images",
     "Electromagnetism/EM Images/Pasted image 20240217113356.png",
     "Thermal Physics/Thermal Images/Pasted image 20240216143351.png",
-    "Thermal Physics/Thermal Images/Pasted image 20240216142153.png",
     "Thermal Physics/Thermal Images",
-    "Untitled",
     "Thermal Physics",
     "Electromagnetism",
     "Particles/Particle Imag",
